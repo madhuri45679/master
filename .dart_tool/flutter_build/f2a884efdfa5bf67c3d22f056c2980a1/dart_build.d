@@ -1,0 +1,1 @@
+ C:\\Users\\sg\\Desktop\\Pinaka\\Project\\restaurant_pos\\.dart_tool\\flutter_build\\f2a884efdfa5bf67c3d22f056c2980a1\\dart_build_result.json: 
